@@ -17,7 +17,7 @@ function setup() {
   g1 = new Ground(600, 305, 250, 20);
   g2 = new Ground(1000, 200, 250, 20);
   g3 = new Ground(1200, 400, 2400, 40);
-
+// abc 
   b1 = new Box(610,280,20,30);
   b2 = new Box(610,280,20,30);
   b3 = new Box(610,280,20,30);
@@ -34,7 +34,7 @@ function setup() {
   b14 = new Box(610,220,20,30);
   b15 = new Box(610,200,20,30);
   b16 = new Box(610,170,20,30);
-  b17 = new Box1(1000,170,20,30);
+  b17 = new Box1 (1000,170,20,30);
   b18 = new Box1(1000,170,20,30);
   b19 = new Box1(1000,170,20,30);
   b20 = new Box1(1000,170,20,30);
